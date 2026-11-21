@@ -1,0 +1,141 @@
+itemset,size,support
+Unoccupied,1,0.7876703917475132
+CO2_Low,1,0.7353555200785951
+"CO2_Low, Unoccupied",2,0.7197593024683777
+Weekday,1,0.6463219943509763
+"Light_Off, Unoccupied",2,0.6336730934545008
+"CO2_Low, Light_Off, Unoccupied",3,0.5830774898685988
+"Unoccupied, Weekday",2,0.4339923860984895
+"Light_Off, Unoccupied, Weekday",3,0.4145892177330222
+"CO2_Low, Weekday",2,0.38167751442957143
+"CO2_Low, Unoccupied, Weekday",3,0.36608129681935403
+"CO2_Low, Light_Off, Unoccupied, Weekday",4,0.3639936141471202
+"CO2_Low, Unoccupied, Weekend",3,0.3536780056490237
+Temp_Cool,1,0.33562569077735477
+Hum_Normal,1,0.3355028859142822
+"CO2_Low, Temp_Cool",2,0.33488886159891934
+Hum_Dry,1,0.3334152032420484
+Temp_Warm,1,0.3326783740636129
+"CO2_Low, Temp_Cool, Unoccupied",3,0.33243276433746777
+Temp_Mild,1,0.3316959351590323
+Hum_Humid,1,0.3310819108436694
+"Temp_Mild, Unoccupied",2,0.2991526464447992
+"CO2_Low, Temp_Mild",2,0.28625813582217857
+"Temp_Warm, Weekday",2,0.286135330959106
+"Temp_Mild, Weekday",2,0.2799950878054771
+"CO2_Low, Light_Off, Temp_Cool, Unoccupied",4,0.27434606410413853
+"CO2_Low, Temp_Mild, Unoccupied",3,0.27385484465184823
+"Hum_Dry, Unoccupied",2,0.27225838143190473
+"CO2_Low, Hum_Dry",2,0.2684514306766548
+"Light_Off, Temp_Mild, Unoccupied",3,0.26710057718285646
+"CO2_Low, Light_Off, Night, Unoccupied",4,0.2652585042367678
+Evening,1,0.2652585042367678
+"Hum_Normal, Unoccupied",2,0.2636620410168243
+"CO2_Low, Hum_Dry, Unoccupied",3,0.2625567972491711
+"Evening, Light_Off, Unoccupied",3,0.2623111875230259
+"CO2_Low, Temp_Cool, Unoccupied, Weekend",4,0.25543411519096154
+"Hum_Normal, Weekday",2,0.25334643251872774
+"Hum_Humid, Unoccupied",2,0.25174996929878424
+"Temp_Mild, Unoccupied, Weekday",3,0.247451799091244
+Morning,1,0.24732899422817142
+"Light_Off, Temp_Mild, Unoccupied, Weekday",4,0.24573253100822792
+"CO2_Low, Hum_Normal",2,0.24364484833599412
+"CO2_Low, Light_Off, Temp_Mild, Unoccupied",4,0.24180277538990544
+"CO2_Low, Hum_Normal, Unoccupied",3,0.23959228785459905
+"CO2_Low, Temp_Mild, Weekday",3,0.23455728846862337
+"CO2_Low, Hum_Humid",2,0.22325924106594622
+"Hum_Normal, Light_Off, Unoccupied",3,0.22289082647672848
+Light_Bright,1,0.22227680216136558
+"CO2_Low, Temp_Mild, Unoccupied, Weekday",4,0.22215399729829302
+Afternoon,1,0.22215399729829302
+"Light_Bright, Weekday",2,0.22178558270907528
+"CO2_Low, Light_Off, Temp_Mild, Unoccupied, Weekday",5,0.22043472921527693
+"CO2_Low, Light_Off, Unoccupied, Weekend",4,0.21908387572147858
+"CO2_Low, Hum_Humid, Unoccupied",3,0.21761021736460764
+"Occupied, Weekday",2,0.2123296082524868
+"CO2_Low, Evening, Light_Off, Unoccupied",4,0.21171558393712392
+"Light_Bright, Occupied, Weekday",3,0.2112243644848336
+"CO2_Low, Hum_Normal, Light_Off, Unoccupied",4,0.20925948667567235
+"Hum_Humid, Light_Off, Unoccupied",3,0.20864546236030948
+"Hum_Dry, Weekday",2,0.20311924352204347
+"Hum_Dry, Light_Off, Unoccupied",3,0.20213680461746286
+"CO2_Low, Light_Off, Temp_Cool, Unoccupied, Weekend",5,0.19771582954685005
+"CO2_Low, Hum_Dry, Light_Off, Unoccupied",4,0.1964877809161243
+"Hum_Humid, Weekday",2,0.18985631831020508
+"Light_Bright, Temp_Warm, Weekday",3,0.18445290433501166
+"Hum_Normal, Unoccupied, Weekday",3,0.1815055876212698
+"CO2_Low, Hum_Humid, Light_Off, Unoccupied",4,0.17733022227680217
+"CO2_Low, Light_Off, Night, Unoccupied, Weekday",5,0.17683900282451184
+"Evening, Weekday",2,0.17683900282451184
+"Occupied, Temp_Warm, Weekday",3,0.1765933930983667
+"Light_Bright, Occupied, Temp_Warm, Weekday",4,0.17573375905685865
+"Evening, Light_Off, Unoccupied, Weekday",4,0.17389168611077
+"Hum_Normal, Light_Off, Unoccupied, Weekday",4,0.17045314994473781
+"CO2_Low, Morning",2,0.1699619304924475
+"Afternoon, Temp_Warm",2,0.16566376028490729
+"CO2_Low, Hum_Normal, Weekday",3,0.16148839494043965
+"Morning, Weekday",2,0.15890949281591552
+"CO2_Low, Hum_Normal, Unoccupied, Weekday",4,0.15743583445904458
+"CO2_Low, Hum_Normal, Light_Off, Unoccupied, Weekday",5,0.15682181014368168
+"Temp_Warm, Unoccupied",2,0.15608498096524623
+"Morning, Unoccupied",2,0.15547095664988334
+"CO2_Low, Morning, Unoccupied",3,0.15436571288223014
+"Hum_Normal, Temp_Warm, Weekday",3,0.14650620164558517
+"CO2_Moderate, Weekday",2,0.14503254328871423
+Light_Dim,1,0.1440501043841336
+"Light_Dim, Unoccupied",2,0.1429448606164804
+"Hum_Dry, Unoccupied, Weekday",3,0.1419624217118998
+"CO2_Low, Hum_Humid, Unoccupied, Weekend",4,0.1412255925334643
+"CO2_Low, Hum_Dry, Weekday",3,0.13815547095664987
+"Hum_Humid, Temp_Cool",2,0.1380326660935773
+"CO2_Low, Hum_Humid, Temp_Cool",3,0.13729583691514183
+"Hum_Dry, Light_Off, Unoccupied, Weekday",4,0.13692742232592411
+"Hum_Dry, Temp_Mild",2,0.13582217855827092
+"CO2_Low, Hum_Humid, Temp_Cool, Unoccupied",4,0.13520815424290802
+"CO2_Low, Hum_Humid, Temp_Cool, Unoccupied, Weekend",5,0.13508534937983543
+"CO2_Low, Light_Dim",2,0.13459412992754513
+"CO2_Low, Light_Dim, Unoccupied",3,0.13434852020139998
+"CO2_Low, Light_Dim, Unoccupied, Weekend",4,0.13410291047525483
+"Afternoon, Temp_Warm, Weekday",3,0.13373449588603709
+"CO2_Low, Hum_Dry, Unoccupied, Weekday",4,0.13226083752916615
+"CO2_Low, Light_Off, Night, Temp_Cool, Unoccupied",5,0.13213803266609359
+"CO2_Low, Hum_Dry, Light_Off, Unoccupied, Weekday",5,0.13127839862458554
+"CO2_Low, Hum_Dry, Unoccupied, Weekend",4,0.1302959597200049
+"CO2_Low, Hum_Dry, Temp_Mild",3,0.1286994965000614
+"Afternoon, Light_Bright, Temp_Warm, Weekday",4,0.12452413115559376
+"Hum_Humid, Temp_Mild",2,0.1242785214294486
+"Hum_Dry, Temp_Mild, Unoccupied",3,0.12415571656637603
+"CO2_Low, Evening, Light_Off, Unoccupied, Weekday",5,0.12329608252486798
+"CO2_Low, Hum_Dry, Temp_Mild, Unoccupied",4,0.12280486307257768
+"Hum_Dry, Temp_Mild, Weekday",3,0.12010315608498097
+"CO2_High, Weekday",2,0.11961193663269065
+"Hum_Humid, Temp_Mild, Weekday",3,0.11813827827581973
+"Afternoon, Occupied, Temp_Warm, Weekday",4,0.11752425396045683
+"CO2_Low, Hum_Normal, Temp_Cool",3,0.11740144909738426
+"Hum_Dry, Temp_Warm",2,0.11740144909738426
+"CO2_Low, Hum_Normal, Temp_Cool, Unoccupied",4,0.11703303450816652
+"Afternoon, Light_Bright, Occupied, Temp_Warm, Weekday",5,0.11691022964509394
+"CO2_Low, Light_Off, Night, Temp_Mild, Unoccupied",5,0.11531376642515044
+"CO2_Low, Light_Off, Night, Temp_Mild, Unoccupied, Weekday",6,0.11482254697286012
+"CO2_Low, Temp_Warm",2,0.11420852265749723
+"CO2_Moderate, Temp_Warm, Weekday",3,0.11359449834213435
+"CO2_Low, Temp_Warm, Unoccupied",3,0.11347169347906177
+"Hum_Dry, Light_Off, Temp_Mild, Unoccupied",4,0.11310327888984403
+"CO2_Low, Hum_Dry, Temp_Mild, Weekday",4,0.11298047402677146
+"CO2_Low, Hum_Dry, Light_Off, Temp_Mild, Unoccupied",5,0.11175242539604568
+"Hum_Humid, Unoccupied, Weekday",3,0.11052437676531991
+"Temp_Warm, Unoccupied, Weekday",3,0.10954193786073929
+"Hum_Dry, Temp_Mild, Unoccupied, Weekday",4,0.10843669409308608
+"Hum_Dry, Light_Off, Temp_Mild, Unoccupied, Weekday",5,0.10745425518850546
+"Hum_Humid, Light_Off, Unoccupied, Weekday",4,0.10720864546236031
+"CO2_Low, Hum_Dry, Temp_Mild, Unoccupied, Weekday",5,0.10708584059928773
+"Hum_Humid, Temp_Mild, Unoccupied",3,0.10634901142085226
+"CO2_Low, Hum_Dry, Light_Off, Temp_Mild, Unoccupied, Weekday",6,0.10610340169470711
+"CO2_High, Temp_Warm, Weekday",3,0.10487535306398134
+"Afternoon, Unoccupied",2,0.10462974333783617
+"CO2_Moderate, Light_Bright, Weekday",3,0.1029104752548201
+"CO2_High, Light_Bright, Weekday",3,0.10168242662409431
+"CO2_Low, Hum_Humid, Light_Off, Temp_Cool, Unoccupied, Weekend",6,0.10143681689794916
+"CO2_Low, Hum_Normal, Light_Off, Temp_Cool, Unoccupied",5,0.101191207171804
+"Evening, Light_Off, Temp_Mild, Unoccupied",4,0.10069998771951369
+"Hum_Humid, Temp_Mild, Unoccupied, Weekday",4,0.10020876826722339
